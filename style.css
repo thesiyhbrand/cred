@@ -116,7 +116,7 @@ nav a{
     justify-content: center;
     width: 100%;
     height: 100vh;
-    background-image: url(/Assets/IMG/video-bg.png);
+    background-image: url(Assets/IMG/video-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -316,14 +316,14 @@ nav a{
 .part-6{
     width: 100%;
     height: 50vh;
-    background-image: url(/Assets/IMG/neopop-image-mock.png);
+    background-image: url(Assets/IMG/neopop-image-mock.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
 .part-7{
-    background-image: url(/Assets/IMG/security-bg.jpg);
+    background-image: url(Assets/IMG/security-bg.jpg);
 }
 
 .part-8{
@@ -331,7 +331,7 @@ nav a{
     justify-content: center;
     flex-direction: row;
     gap: 20vw;
-    background-image: url(/Assets/IMG/trust-bg.jpg);
+    background-image: url(Assets/IMG/trust-bg.jpg);
 }
 
 .part-8 h1{
